@@ -2,11 +2,11 @@
 
 Buttons with built-in loading indicators, effectively bridging the gap between action and feedback. 
 
-[Check out the demo page](http://msurguy.github.io/ladda-bootstrap/).
+[Check out the demo page](http://balcsida.github.io/ladda-bootstrap/).
 
 ## Instructions
 
-Please see the demo page for the details: (http://msurguy.github.io/ladda-bootstrap/).
+Please see the demo page for the details: (http://balcsida.github.io/ladda-bootstrap/).
 
 #### HTML
 
